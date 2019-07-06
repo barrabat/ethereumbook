@@ -1,0 +1,8 @@
+## .env ##
+# *.pdf
+# *.orig
+.passkeys
+# .DS_Store
+snippets
+node_modules
+# .ipynb_checkpoints
